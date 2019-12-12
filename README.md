@@ -1,8 +1,8 @@
 Boris Bikes
-
+A network of docking stations and bikes that anyone can use.
 
 Motivation
-A network of docking stations and bikes that anyone can use.
+Makers Academy Apprenticeship Week 2 challenge
 
 
 Tech/Framework used
